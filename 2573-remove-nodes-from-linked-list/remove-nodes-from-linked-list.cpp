@@ -12,7 +12,7 @@ class Solution {
 public:
     ListNode * rev(ListNode*head){
         ListNode *prev=NULL;
-        while(head ){
+        while(head){
             ListNode*temp=head->next;
             head->next=prev;
             prev=head;
