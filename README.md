@@ -9,10 +9,10 @@
   <a href="https://github.com/Somnath0407">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/somnath-mondal">
+  <a href="https://www.linkedin.com/in/somnathm18/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:somnathmondal2121@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -22,8 +22,8 @@
 ## 🚀 About Me
 
 🎓 B.Tech CSE (3rd Year) at UEM Kolkata  
-💻 Passionate about Full Stack Web Development & DSA  
-🌱 Currently learning MERN Stack and Blockchain  
+💻 Passionate about Full Stack Web Development & Data Structures & Algorithms  
+🌱 Currently learning MERN Stack and Blockchain Development  
 🏆 Institute Rank 25 on GeeksforGeeks  
 ⚡ Love building real-world projects and solving coding problems
 
@@ -35,7 +35,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
 
 ---
@@ -59,6 +58,15 @@
 
 ---
 
+## 📊 Data & Design
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
+---
+
 ## 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -67,7 +75,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Somnath0407&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -107,18 +115,6 @@
 - AI-powered Coding Assistant
 - Contest Management
 
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/Somnath0407
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- LeetCode: https://leetcode.com/u/somnath47/
-- GeeksforGeeks: https://auth.geeksforgeeks.org/user/
-- Portfolio: https://somnath0407.github.io/
-
----
-
 <p align="center">
-  ⭐ If you like my work, consider giving a star to my repositories!
+  <b>Thanks for visiting my profile! </b>
 </p>
